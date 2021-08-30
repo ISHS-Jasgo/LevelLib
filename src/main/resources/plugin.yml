@@ -1,0 +1,5 @@
+name: LevelLib
+version: ${project.version}
+main: com.github.jasgo.levellib.LevelLib
+api-version: 1.17
+authors: [ Jasgo ]
