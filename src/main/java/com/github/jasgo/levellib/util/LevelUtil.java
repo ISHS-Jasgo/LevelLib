@@ -3,22 +3,22 @@ package com.github.jasgo.levellib.util;
 import org.bukkit.entity.Player;
 
 public class LevelUtil {
-    public int getLevel(Player player) {
+    public static int getLevel(Player player) {
         return 0;
     }
-    public void setLevel(Player player) {
+    public static void setLevel(Player player, int amount) {
 
     }
-    public int getExp(Player player) {
+    public static int getExp(Player player) {
         return 0;
     }
-    public void setExp(Player player) {
+    public static void setExp(Player player, int amount) {
 
     }
-    public int getMaxExp(Player player) {
+    public static int getMaxExp(Player player) {
         return 0;
     }
-    public void setMaxExp(Player player) {
+    public static void setMaxExp(Player player, int amount) {
 
     }
 }
