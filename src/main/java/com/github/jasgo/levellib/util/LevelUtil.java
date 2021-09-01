@@ -9,4 +9,16 @@ public class LevelUtil {
     public void setLevel(Player player) {
 
     }
+    public int getExp(Player player) {
+        return 0;
+    }
+    public void setExp(Player player) {
+
+    }
+    public int getMaxExp(Player player) {
+        return 0;
+    }
+    public void setMaxExp(Player player) {
+
+    }
 }
