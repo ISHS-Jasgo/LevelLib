@@ -15,7 +15,7 @@ public class LLPlayerLevelChangeEvent extends Event {
     public HandlerList getHandlers() {
         return null;
     }
-    public static HandlerList getHanderList() {
+    public static HandlerList getHandlerList() {
         return HANDLERS;
     }
     public LLPlayerLevelChangeEvent(Player player, int oldLevel, int newLevel) {
